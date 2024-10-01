@@ -1,3 +1,21 @@
+# 🛠️ AI Agents, Memory, and Model Prompt Parser 🧠
+
+Welcome to the **AI Agents Repository**! This project demonstrates the concepts of **Agents**, **Memory**, and the **Model Prompt Parser**. Each of these components is explained and implemented using interactive Jupyter notebooks to help you build smarter, context-aware AI systems.
+
+---
+
+## 📂 Project Structure
+
+The repository contains three key Jupyter notebooks:
+
+```bash
+├── 1_Agents.ipynb          # Demonstrates AI Agent logic and functions
+├── 2_Memory.ipynb          # Explains how AI agents can use memory
+├── 3_Model_Prompt_Parser.ipynb  # Shows how to parse dynamic prompts for AI models
+└── README.md               
+```
+
+
 ## 🚀 Key Concepts
 
 ### 1. **Agents 🤖**
