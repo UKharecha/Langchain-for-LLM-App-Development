@@ -46,3 +46,47 @@ A **Model Prompt Parser** helps convert user inputs into structured prompts for 
 In the **`3_Model_Prompt_Parser.ipynb`** notebook, you'll learn:
 - How to parse raw user inputs.
 - How to build effective prompts for language models to ensure accurate responses.
+
+---
+
+## 🏗️ How to Use
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/UKharecha/Langchain-for-LLM-App-Development.git
+    cd your-repo
+    ```
+
+2. **Run the Notebooks**:
+    Open the Jupyter notebooks to explore each of the key concepts:
+    - **1_Agents.ipynb**
+    - **2_Memory.ipynb**
+    - **3_Model_Prompt_Parser.ipynb**
+
+    Run them using:
+    ```bash
+    jupyter notebook
+    ```
+
+---
+
+## 🌟 Features
+- **Dynamic Agents**: Explore how agents can act autonomously and make decisions.
+- **Contextual Memory**: Learn how memory enhances agent intelligence.
+- **Smart Prompt Parsing**: Understand how to craft dynamic prompts for models to interact intelligently.
+
+
+---
+
+## 🤝 Contributions
+We welcome contributions! Feel free to open issues or submit pull requests to enhance this repository.
+
+---
+
+## 🙌 Acknowledgments
+Thanks to the open-source community and researchers who contributed to the foundational work behind these concepts.
+
+---
+
+### Start building intelligent agents with memory and smart prompt parsing! 🚀
+
